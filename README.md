@@ -22,5 +22,5 @@ The main content, using the **responsive grid provided by Bootstrap** to divide 
 
 Modify with SASS, through the file you created "main.scss", the main and secondary color of Bootstrap. Use these variables for the color of the buttons
 
-- Main Color: #5265E1
-- Secondary Color: #FA5959.
+- `Main Color: #5265E1`
+- `Secondary Color: #FA5959.`
